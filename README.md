@@ -1,1 +1,2 @@
 # STREETFIGHTERSTYLE
+It should be noted tht this game was developed as a part of my CS NEA and has much room for improvement. I wasn't quite able to get around to designing the characters and any animations. Hence, this game feels slightly incomplete. I do wish to add this into the game at some point as well as a leaderboard system. This really is a project where the sky is the limit regarding the extra functionalities and imporvements that could be made. 
